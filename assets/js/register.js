@@ -163,5 +163,6 @@ myform.addEventListener('submit', function (e) {
     //code here
     else{
         alert("Đăng kí không thành công !")
+        alert("Kiểm tra lại nội dung vừa nhập")
     }
 })
